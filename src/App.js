@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import TextEditor from './Components';
+import TextEditor from './Components/TextEditor';
 import './App.css';
 
 class App extends Component {
